@@ -10,10 +10,10 @@ This is an AutoHotkey (AHK) script that allows users to:
 
 # Prerequisites
 To use this script, you need to have AutoHotkey installed on your computer.
+Link: https://www.autohotkey.com/
 
 Adjust the scaling settings in your GPU control panel.
 For Nvidia Users (Nvidia Control Panel):
-
 - Open Nvidia Control Panel:
    - Right-click on your desktop and select NVIDIA Control Panel from the context menu.
 - Adjust Desktop Size and Position:
@@ -37,7 +37,7 @@ For Nvidia Users (Nvidia Control Panel):
 - Save Changes:
    - Click Apply to confirm your settings.
 
-Set Counter Strike to fullscreen-windowed if you want to alt-tab even faster.
+Set Counter Strike to fullscreen-windowed if you want to alt-tab even faster. Because you can now.
 
 # Installing AHK
 - Go to the official AutoHotkey website: https://www.autohotkey.com/.
