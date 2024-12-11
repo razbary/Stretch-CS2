@@ -1,6 +1,6 @@
 # Stretch-CS2
 
-* Tired of slow alt-tabbing when playing with a stretched resolution in Counter Strike? This AHK Script solves that problem completely!*
+**Tired of slow alt-tabbing when playing with a stretched resolution in Counter Strike? This AHK Script solves that problem completely!**
 
 This is an AutoHotkey (AHK) script that allows users to:
 - Input custom screen resolution settings (width and height).
