@@ -41,7 +41,7 @@ Set Counter Strike to fullscreen-windowed if you want to alt-tab even faster. Be
 
 # Installing AHK
 - Go to the official AutoHotkey website: https://www.autohotkey.com/.
-- Download the latest version of AutoHotkey.
+- Download V1 of AHK.
 - Run the installer and follow the installation instructions.
 
 # Running the Script:
