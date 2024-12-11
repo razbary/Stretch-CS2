@@ -1,4 +1,7 @@
 # Stretch-CS2
+
+* Tired of slow alt-tabbing when playing with a stretched resolution in Counter Strike? This AHK Script solves that problem completely!*
+
 This is an AutoHotkey (AHK) script that allows users to:
 - Input custom screen resolution settings (width and height).
 - Browse and select the path to cs2.exe (Counter-Strike 2).
@@ -33,6 +36,8 @@ For Nvidia Users (Nvidia Control Panel):
    - If the game resolution does not fit properly, select Full Panel to stretch the image to fit the entire screen.
 - Save Changes:
    - Click Apply to confirm your settings.
+
+Set Counter Strike to fullscreen-windowed if you want to alt-tab even faster.
 
 # Installing AHK
 - Go to the official AutoHotkey website: https://www.autohotkey.com/.
