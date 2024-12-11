@@ -10,11 +10,10 @@ This is an AutoHotkey (AHK) script that allows users to:
 
 # Prerequisites
 To use this script, you need to have AutoHotkey installed on your computer.
-Link: https://www.autohotkey.com/
 
 Adjust the scaling settings in your GPU control panel
 
-For Nvidia Users (Nvidia Control Panel):
+!For Nvidia Users! (Nvidia Control Panel):
 - Open Nvidia Control Panel:
    - Right-click on your desktop and select NVIDIA Control Panel from the context menu.
 - Adjust Desktop Size and Position:
@@ -26,7 +25,7 @@ For Nvidia Users (Nvidia Control Panel):
    - Select Full-screen scaling mode to ensure the resolution is stretched across the screen as per your settings.
    - Click OK.
 
-For AMD Users (AMD Radeon Settings):
+!For AMD Users! (AMD Radeon Settings):
 - Open AMD Radeon Settings:
    - Right-click on your desktop and select AMD Radeon Settings (or AMD Catalyst Control Center, depending on your version).
 - Navigate to Display Settings:
