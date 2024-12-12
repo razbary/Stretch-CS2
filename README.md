@@ -2,6 +2,9 @@
 
 **Tired of slow alt-tabbing when playing with a stretched resolution in Counter Strike? This AHK Script solves that problem completely!**
 
+Ban Concerns: This application is commonly used for many reasons beyond cheating in games. While certain AHK scripts may get you banned for doing certain actions, this is completely safe.
+   - This script does not interact with Counter Strike in any way, the only thing it does is open the .exe, the resolution change happens to windows.
+
 This is an AutoHotkey (AHK) script that allows users to:
 - Input custom screen resolution settings (width and height).
 - Browse and select the path to cs2.exe (Counter-Strike 2).
