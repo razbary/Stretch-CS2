@@ -65,3 +65,4 @@ Set Counter Strike to fullscreen-windowed if you want to alt-tab even faster. Be
   - Ensure that the resolution you've entered is valid for your monitor.
   - Verify that your graphics card supports the resolution you're trying to apply.
   - Check if any other programs or games are preventing the resolution change (some applications lock the screen resolution while they are running).
+  - An additional step, if you are using a custom resolution ensure that custom resolution is properly defined in NVIDIA / AMD control panels.
