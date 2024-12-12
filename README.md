@@ -4,6 +4,7 @@
 
 Ban Concerns: This application is commonly used for many reasons beyond cheating in games. While certain AHK scripts may get you banned for doing certain actions, this is completely safe.
    - This script does not interact with Counter Strike in any way, the only thing it does is open the .exe, the resolution change happens to windows.
+   - I have yet to test this on anything like faceit, however I don't see why this would cause any issues.
 
 This is an AutoHotkey (AHK) script that allows users to:
 - Input custom screen resolution settings (width and height).
