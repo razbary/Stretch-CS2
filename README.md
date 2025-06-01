@@ -1,5 +1,7 @@
 # Stretch-CS2
 
+**BROKEN** 
+
 **Tired of slow alt-tabbing when playing with a stretched resolution in Counter Strike? This AHK Script solves that problem completely!**
 
 Ban Concerns: This application is commonly used for many reasons beyond cheating in games. While certain AHK scripts may get you banned for doing certain actions, this is completely safe.
